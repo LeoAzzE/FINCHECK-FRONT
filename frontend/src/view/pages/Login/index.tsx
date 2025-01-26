@@ -29,16 +29,16 @@ export function Login() {
             >
                 <Input
                     {...register("email")}
+                    error={errors.email?.message}
                     type="email"
                     placeholder="E-mail"
                 ></Input>
-                {errors.email && <span>{errors.email.message}</span>}
                 <Input
                     {...register("password")}
+                    error={errors.password?.message}
                     type="password"
                     placeholder="Senha"
                 ></Input>
-                {errors.password && <span>{errors.password.message}</span>}
                 <Button type="submit" className="mt-2">
                     Entrar
                 </Button>
