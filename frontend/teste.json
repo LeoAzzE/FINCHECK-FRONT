@@ -1,0 +1,346 @@
+[
+    {
+        "Posicao": 1,
+        "Segmento": "Pessoa Jurídica",
+        "Modalidade": "Capital de giro com prazo até 365 dias - Pré-fixado",
+        "InstituicaoFinanceira": "SCANIA BCO S.A.",
+        "TaxaJurosAoMes": "0,20",
+        "TaxaJurosAoAno": "2,40"
+    },
+    {
+        "Posicao": 2,
+        "Segmento": "Pessoa Jurídica",
+        "Modalidade": "Capital de giro com prazo até 365 dias - Pré-fixado",
+        "InstituicaoFinanceira": "BCO XCMG BRASIL S.A.",
+        "TaxaJurosAoMes": "0,20",
+        "TaxaJurosAoAno": "2,44"
+    },
+    {
+        "Posicao": 3,
+        "Segmento": "Pessoa Jurídica",
+        "Modalidade": "Capital de giro com prazo até 365 dias - Pré-fixado",
+        "InstituicaoFinanceira": "BCO VOTORANTIM S.A.",
+        "TaxaJurosAoMes": "1,21",
+        "TaxaJurosAoAno": "15,46"
+    },
+    {
+        "Posicao": 4,
+        "Segmento": "Pessoa Jurídica",
+        "Modalidade": "Capital de giro com prazo até 365 dias - Pré-fixado",
+        "InstituicaoFinanceira": "BANCO SICOOB S.A.",
+        "TaxaJurosAoMes": "1,21",
+        "TaxaJurosAoAno": "15,59"
+    },
+    {
+        "Posicao": 5,
+        "Segmento": "Pessoa Jurídica",
+        "Modalidade": "Capital de giro com prazo até 365 dias - Pré-fixado",
+        "InstituicaoFinanceira": "BCO XP S.A.",
+        "TaxaJurosAoMes": "1,24",
+        "TaxaJurosAoAno": "15,88"
+    },
+    {
+        "Posicao": 6,
+        "Segmento": "Pessoa Jurídica",
+        "Modalidade": "Capital de giro com prazo até 365 dias - Pré-fixado",
+        "InstituicaoFinanceira": "BANCOSEGURO S.A.",
+        "TaxaJurosAoMes": "1,25",
+        "TaxaJurosAoAno": "16,00"
+    },
+    {
+        "Posicao": 7,
+        "Segmento": "Pessoa Jurídica",
+        "Modalidade": "Capital de giro com prazo até 365 dias - Pré-fixado",
+        "InstituicaoFinanceira": "BCO SUMITOMO MITSUI BRASIL S.A.",
+        "TaxaJurosAoMes": "1,39",
+        "TaxaJurosAoAno": "17,95"
+    },
+    {
+        "Posicao": 8,
+        "Segmento": "Pessoa Jurídica",
+        "Modalidade": "Capital de giro com prazo até 365 dias - Pré-fixado",
+        "InstituicaoFinanceira": "BCO DO NORDESTE DO BRASIL S.A.",
+        "TaxaJurosAoMes": "1,54",
+        "TaxaJurosAoAno": "20,09"
+    },
+    {
+        "Posicao": 9,
+        "Segmento": "Pessoa Jurídica",
+        "Modalidade": "Capital de giro com prazo até 365 dias - Pré-fixado",
+        "InstituicaoFinanceira": "BCO BMG S.A.",
+        "TaxaJurosAoMes": "1,76",
+        "TaxaJurosAoAno": "23,28"
+    },
+    {
+        "Posicao": 10,
+        "Segmento": "Pessoa Jurídica",
+        "Modalidade": "Capital de giro com prazo até 365 dias - Pré-fixado",
+        "InstituicaoFinanceira": "ITAÚ UNIBANCO S.A.",
+        "TaxaJurosAoMes": "1,78",
+        "TaxaJurosAoAno": "23,64"
+    },
+    {
+        "Posicao": 11,
+        "Segmento": "Pessoa Jurídica",
+        "Modalidade": "Capital de giro com prazo até 365 dias - Pré-fixado",
+        "InstituicaoFinanceira": "BCO BS2 S.A.",
+        "TaxaJurosAoMes": "1,81",
+        "TaxaJurosAoAno": "24,00"
+    },
+    {
+        "Posicao": 12,
+        "Segmento": "Pessoa Jurídica",
+        "Modalidade": "Capital de giro com prazo até 365 dias - Pré-fixado",
+        "InstituicaoFinanceira": "BANCO ORIGINAL",
+        "TaxaJurosAoMes": "1,82",
+        "TaxaJurosAoAno": "24,21"
+    },
+    {
+        "Posicao": 13,
+        "Segmento": "Pessoa Jurídica",
+        "Modalidade": "Capital de giro com prazo até 365 dias - Pré-fixado",
+        "InstituicaoFinanceira": "BCO SAFRA S.A.",
+        "TaxaJurosAoMes": "1,82",
+        "TaxaJurosAoAno": "24,23"
+    },
+    {
+        "Posicao": 14,
+        "Segmento": "Pessoa Jurídica",
+        "Modalidade": "Capital de giro com prazo até 365 dias - Pré-fixado",
+        "InstituicaoFinanceira": "BANCO INBURSA",
+        "TaxaJurosAoMes": "1,83",
+        "TaxaJurosAoAno": "24,25"
+    },
+    {
+        "Posicao": 15,
+        "Segmento": "Pessoa Jurídica",
+        "Modalidade": "Capital de giro com prazo até 365 dias - Pré-fixado",
+        "InstituicaoFinanceira": "BCO BRADESCO S.A.",
+        "TaxaJurosAoMes": "1,90",
+        "TaxaJurosAoAno": "25,40"
+    },
+    {
+        "Posicao": 16,
+        "Segmento": "Pessoa Jurídica",
+        "Modalidade": "Capital de giro com prazo até 365 dias - Pré-fixado",
+        "InstituicaoFinanceira": "QISTA S.A. CFI",
+        "TaxaJurosAoMes": "2,22",
+        "TaxaJurosAoAno": "30,18"
+    },
+    {
+        "Posicao": 17,
+        "Segmento": "Pessoa Jurídica",
+        "Modalidade": "Capital de giro com prazo até 365 dias - Pré-fixado",
+        "InstituicaoFinanceira": "BCO DAYCOVAL S.A",
+        "TaxaJurosAoMes": "2,23",
+        "TaxaJurosAoAno": "30,25"
+    },
+    {
+        "Posicao": 18,
+        "Segmento": "Pessoa Jurídica",
+        "Modalidade": "Capital de giro com prazo até 365 dias - Pré-fixado",
+        "InstituicaoFinanceira": "BCO SOFISA S.A.",
+        "TaxaJurosAoMes": "2,27",
+        "TaxaJurosAoAno": "30,92"
+    },
+    {
+        "Posicao": 19,
+        "Segmento": "Pessoa Jurídica",
+        "Modalidade": "Capital de giro com prazo até 365 dias - Pré-fixado",
+        "InstituicaoFinanceira": "BANCO JOHN DEERE S.A.",
+        "TaxaJurosAoMes": "2,31",
+        "TaxaJurosAoAno": "31,52"
+    },
+    {
+        "Posicao": 20,
+        "Segmento": "Pessoa Jurídica",
+        "Modalidade": "Capital de giro com prazo até 365 dias - Pré-fixado",
+        "InstituicaoFinanceira": "BCO GUANABARA S.A.",
+        "TaxaJurosAoMes": "2,33",
+        "TaxaJurosAoAno": "31,80"
+    },
+    {
+        "Posicao": 21,
+        "Segmento": "Pessoa Jurídica",
+        "Modalidade": "Capital de giro com prazo até 365 dias - Pré-fixado",
+        "InstituicaoFinanceira": "BCO DO EST. DE SE S.A.",
+        "TaxaJurosAoMes": "2,34",
+        "TaxaJurosAoAno": "31,91"
+    },
+    {
+        "Posicao": 22,
+        "Segmento": "Pessoa Jurídica",
+        "Modalidade": "Capital de giro com prazo até 365 dias - Pré-fixado",
+        "InstituicaoFinanceira": "BCO DO BRASIL S.A.",
+        "TaxaJurosAoMes": "2,38",
+        "TaxaJurosAoAno": "32,57"
+    },
+    {
+        "Posicao": 23,
+        "Segmento": "Pessoa Jurídica",
+        "Modalidade": "Capital de giro com prazo até 365 dias - Pré-fixado",
+        "InstituicaoFinanceira": "BCO DA AMAZONIA S.A.",
+        "TaxaJurosAoMes": "2,38",
+        "TaxaJurosAoAno": "32,57"
+    },
+    {
+        "Posicao": 24,
+        "Segmento": "Pessoa Jurídica",
+        "Modalidade": "Capital de giro com prazo até 365 dias - Pré-fixado",
+        "InstituicaoFinanceira": "BANCO GENIAL",
+        "TaxaJurosAoMes": "2,50",
+        "TaxaJurosAoAno": "34,49"
+    },
+    {
+        "Posicao": 25,
+        "Segmento": "Pessoa Jurídica",
+        "Modalidade": "Capital de giro com prazo até 365 dias - Pré-fixado",
+        "InstituicaoFinanceira": "BCO SANTANDER (BRASIL) S.A.",
+        "TaxaJurosAoMes": "2,52",
+        "TaxaJurosAoAno": "34,83"
+    },
+    {
+        "Posicao": 26,
+        "Segmento": "Pessoa Jurídica",
+        "Modalidade": "Capital de giro com prazo até 365 dias - Pré-fixado",
+        "InstituicaoFinanceira": "BCO BANESTES S.A.",
+        "TaxaJurosAoMes": "2,53",
+        "TaxaJurosAoAno": "34,97"
+    },
+    {
+        "Posicao": 27,
+        "Segmento": "Pessoa Jurídica",
+        "Modalidade": "Capital de giro com prazo até 365 dias - Pré-fixado",
+        "InstituicaoFinanceira": "BCO DO ESTADO DO RS S.A.",
+        "TaxaJurosAoMes": "2,63",
+        "TaxaJurosAoAno": "36,47"
+    },
+    {
+        "Posicao": 28,
+        "Segmento": "Pessoa Jurídica",
+        "Modalidade": "Capital de giro com prazo até 365 dias - Pré-fixado",
+        "InstituicaoFinanceira": "STARA FINANCEIRA S.A. - CFI",
+        "TaxaJurosAoMes": "2,71",
+        "TaxaJurosAoAno": "37,84"
+    },
+    {
+        "Posicao": 29,
+        "Segmento": "Pessoa Jurídica",
+        "Modalidade": "Capital de giro com prazo até 365 dias - Pré-fixado",
+        "InstituicaoFinanceira": "BRB - BCO DE BRASILIA S.A.",
+        "TaxaJurosAoMes": "2,75",
+        "TaxaJurosAoAno": "38,52"
+    },
+    {
+        "Posicao": 30,
+        "Segmento": "Pessoa Jurídica",
+        "Modalidade": "Capital de giro com prazo até 365 dias - Pré-fixado",
+        "InstituicaoFinanceira": "PORTOSEG S.A. CFI",
+        "TaxaJurosAoMes": "3,05",
+        "TaxaJurosAoAno": "43,40"
+    },
+    {
+        "Posicao": 31,
+        "Segmento": "Pessoa Jurídica",
+        "Modalidade": "Capital de giro com prazo até 365 dias - Pré-fixado",
+        "InstituicaoFinanceira": "CAIXA ECONOMICA FEDERAL",
+        "TaxaJurosAoMes": "3,23",
+        "TaxaJurosAoAno": "46,47"
+    },
+    {
+        "Posicao": 32,
+        "Segmento": "Pessoa Jurídica",
+        "Modalidade": "Capital de giro com prazo até 365 dias - Pré-fixado",
+        "InstituicaoFinanceira": "RPW S.A. SCFI",
+        "TaxaJurosAoMes": "3,53",
+        "TaxaJurosAoAno": "51,65"
+    },
+    {
+        "Posicao": 33,
+        "Segmento": "Pessoa Jurídica",
+        "Modalidade": "Capital de giro com prazo até 365 dias - Pré-fixado",
+        "InstituicaoFinanceira": "BCO C6 S.A.",
+        "TaxaJurosAoMes": "3,65",
+        "TaxaJurosAoAno": "53,70"
+    },
+    {
+        "Posicao": 34,
+        "Segmento": "Pessoa Jurídica",
+        "Modalidade": "Capital de giro com prazo até 365 dias - Pré-fixado",
+        "InstituicaoFinanceira": "BANCO BTG PACTUAL S.A.",
+        "TaxaJurosAoMes": "4,07",
+        "TaxaJurosAoAno": "61,32"
+    },
+    {
+        "Posicao": 35,
+        "Segmento": "Pessoa Jurídica",
+        "Modalidade": "Capital de giro com prazo até 365 dias - Pré-fixado",
+        "InstituicaoFinanceira": "BCO TRIANGULO S.A.",
+        "TaxaJurosAoMes": "4,19",
+        "TaxaJurosAoAno": "63,59"
+    },
+    {
+        "Posicao": 36,
+        "Segmento": "Pessoa Jurídica",
+        "Modalidade": "Capital de giro com prazo até 365 dias - Pré-fixado",
+        "InstituicaoFinanceira": "BCO AFINZ S.A. - BM",
+        "TaxaJurosAoMes": "4,50",
+        "TaxaJurosAoAno": "69,60"
+    },
+    {
+        "Posicao": 37,
+        "Segmento": "Pessoa Jurídica",
+        "Modalidade": "Capital de giro com prazo até 365 dias - Pré-fixado",
+        "InstituicaoFinanceira": "CORA SCFI",
+        "TaxaJurosAoMes": "4,51",
+        "TaxaJurosAoAno": "69,87"
+    },
+    {
+        "Posicao": 38,
+        "Segmento": "Pessoa Jurídica",
+        "Modalidade": "Capital de giro com prazo até 365 dias - Pré-fixado",
+        "InstituicaoFinanceira": "BCO HONDA S.A.",
+        "TaxaJurosAoMes": "5,16",
+        "TaxaJurosAoAno": "82,97"
+    },
+    {
+        "Posicao": 39,
+        "Segmento": "Pessoa Jurídica",
+        "Modalidade": "Capital de giro com prazo até 365 dias - Pré-fixado",
+        "InstituicaoFinanceira": "VIA CERTA FINANCIADORA S.A. - CFI",
+        "TaxaJurosAoMes": "6,53",
+        "TaxaJurosAoAno": "113,56"
+    },
+    {
+        "Posicao": 40,
+        "Segmento": "Pessoa Jurídica",
+        "Modalidade": "Capital de giro com prazo até 365 dias - Pré-fixado",
+        "InstituicaoFinanceira": "NU FINANCEIRA S.A. CFI",
+        "TaxaJurosAoMes": "6,61",
+        "TaxaJurosAoAno": "115,47"
+    },
+    {
+        "Posicao": 41,
+        "Segmento": "Pessoa Jurídica",
+        "Modalidade": "Capital de giro com prazo até 365 dias - Pré-fixado",
+        "InstituicaoFinanceira": "COBUCCIO S.A. SCFI",
+        "TaxaJurosAoMes": "7,24",
+        "TaxaJurosAoAno": "131,22"
+    },
+    {
+        "Posicao": 42,
+        "Segmento": "Pessoa Jurídica",
+        "Modalidade": "Capital de giro com prazo até 365 dias - Pré-fixado",
+        "InstituicaoFinanceira": "BCO DO EST. DO PA S.A.",
+        "TaxaJurosAoMes": "7,34",
+        "TaxaJurosAoAno": "134,05"
+    },
+    {
+        "Posicao": 43,
+        "Segmento": "Pessoa Jurídica",
+        "Modalidade": "Capital de giro com prazo até 365 dias - Pré-fixado",
+        "InstituicaoFinanceira": "MERCADO CRÉDITO SCFI S.A.",
+        "TaxaJurosAoMes": "8,61",
+        "TaxaJurosAoAno": "169,28"
+    }
+]
