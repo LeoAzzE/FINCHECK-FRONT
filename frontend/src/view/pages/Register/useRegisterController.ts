@@ -7,20 +7,6 @@ import { SignupParams } from "../../../app/services/authService/signup";
 import toast from "react-hot-toast";
 import { useAuth } from "../../../app/hooks/useAuth";
 
-export type IErrorProps = {
-    message: string;
-    status: number;
-    method?: string;
-    cod?: number;
-    response?: {
-        data: {
-            message?: string;
-            error?: string;
-            status?: number;
-        };
-    };
-};
-
 const schema = z.object({
     name: z.string().nonempty("Nome é obrigatório"),
     email: z
