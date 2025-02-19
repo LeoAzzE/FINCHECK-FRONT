@@ -324,6 +324,9 @@ export default {
                 "content-show":
                     "contentShow 150ms cubic-bezier(0.16, 1, 0.3, 1)",
             },
+            fontFamily: {
+                sans: ["DM Sans", "sans-serif"],
+            },
         },
     },
     plugins: [],
